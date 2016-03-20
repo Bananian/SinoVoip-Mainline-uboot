@@ -98,7 +98,7 @@ dtb-$(CONFIG_MACH_SUN6I) += \
 	sun6i-a31-mele-a1000g-quad.dtb \
 	sun6i-a31-mixtile-loftq.dtb \
 	sun6i-a31s-cs908.dtb \
-	sun6i-a31s-bananapi-m2.dtb \
+	sun6i-a31s-sinovoip-bpi-m2.dtb \
 	sun6i-a31s-primo81.dtb
 dtb-$(CONFIG_MACH_SUN7I) += \
 	sun7i-a20-ainol-aw1.dtb \
